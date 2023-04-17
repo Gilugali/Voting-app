@@ -146,7 +146,8 @@
       object-fit: cover;
       width: 500px;
       background: none;
-      /* height: auto; */
+      cursor:pointer;
+      
      }
      .left,
      .right{
@@ -154,6 +155,7 @@
       top: 15%;
      left: 2.5%;
      background: none;
+     cursor: pointer;
      }
      .slideshow-images img{
       object-fit: cover;
@@ -162,6 +164,7 @@
       background: none;
       border-radius: 15px;
       background: none;
+      cursor: pointer;
      }
      .slideshow-container h2{
       margin-left: auto;

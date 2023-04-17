@@ -1,0 +1,50 @@
+[
+    {
+        "rightImage": "https://res.cloudinary.com/dvcmlf6qj/image/upload/v1680878630/1_vfa1lx.jpg",
+        "leftImage": "https://res.cloudinary.com/dvcmlf6qj/image/upload/v1680878629/4_vlpwor.jpg",
+        "leftVotes": 0,
+        "rightVotes": 0,
+        "caption":"who's tall",
+        "ip": 0
+    },
+    {
+        "rightImage": "https://res.cloudinary.com/dvcmlf6qj/image/upload/v1680878629/3_xp1rkl.jpg",
+        "leftImage": "https://res.cloudinary.com/dvcmlf6qj/image/upload/v1680878629/4_vlpwor.jpg",
+        "leftVotes": 0,
+        "rightVotes": 0,
+        "caption":"who's famous",
+        "ip": 0
+    },
+    {
+        "rightImage": "https://res.cloudinary.com/dvcmlf6qj/image/upload/v1680878630/5_znzbml.png",
+        "leftImage": "https://res.cloudinary.com/dvcmlf6qj/image/upload/v1680878630/6_riytpl.jpg",
+        "leftVotes": 0,
+        "rightVotes": 0,
+        "caption":"who's brilliant",
+        "ip": 0
+    },
+    {
+        "rightImage": "https://res.cloudinary.com/dvcmlf6qj/image/upload/v1680878630/7_itg8ol.jpg",
+        "leftImage": "https://res.cloudinary.com/dvcmlf6qj/image/upload/v1680878630/8_sqfo3a.jpg",
+        "leftVotes": 0,
+        "rightVotes": 0,
+        "caption":"whos stupid",
+        "ip": 0
+    },
+    {
+        "rightImage": "https://res.cloudinary.com/dvcmlf6qj/image/upload/v1680878632/9_mmkeit.jpg",
+        "leftImage": "https://res.cloudinary.com/dvcmlf6qj/image/upload/v1680878631/10_bbzhkq.jpg",
+        "leftVotes": 0,
+        "rightVotes": 0,
+        "caption": "who's smart",
+        "ip": 0
+    },
+    {
+        "rightImage": "https://res.cloudinary.com/dvcmlf6qj/image/upload/v1680878632/11_cmtgyy.jpg",
+        "leftImage": "https://res.cloudinary.com/dvcmlf6qj/image/upload/v1680878632/12_qybvvb.jpg",
+        "leftVotes": 0,
+        "rightVotes": 0,
+        "caption":"who's short",
+        "ip": 0
+    }
+]
