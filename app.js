@@ -84,13 +84,13 @@ function putInDBFromJSON() {
         console.log('saved')
     })
 }
-putInDBFromJSON()   
+// putInDBFromJSON()   
 
 async function getDataFromDB() {
     const slides = await Check.find({})
-    alert("justin")
+    
     slides.forEach((el, i)=>{
-        alert("you're there")
+        
         const total = el.rightVotes + el.leftVotes;
         console.log(el.leftVotes)
     })
@@ -98,4 +98,4 @@ async function getDataFromDB() {
 }
 
 
-// getDataFromDB()
+getDataFromDB()
