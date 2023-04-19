@@ -15,7 +15,7 @@ function getSlides() {
         })
         .catch(e => {
             console.log("Something went wrong. Please kill yourself!")
-            console.log(e)
+          
         })
 }
 
